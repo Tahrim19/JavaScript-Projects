@@ -1,5 +1,5 @@
 # HTML-CSS-JS_projects
-
+This repository contains few projects built using HTML, CSS and Vanilla JavaScript. 
 
 | TITLE  |     CODE          | LIVE DEMO |
 | ------------- | -----------| ------    |
@@ -9,3 +9,4 @@
 | Maze-Game | [Maze Game](https://github.com/Tahrim19/Maze-Game.git) |[demo](https://maze-game-beige-chi.vercel.app/)|
 | Tic-Tac_toe | [Tic Tac Toe](https://github.com/Tahrim19/TicTacToe-Game.git) | [demo](https://tic-tac-toe-game-inky-iota.vercel.app/) |
 | DogJump-Game | [Dog Jump Game](https://github.com/Tahrim19/DogJump-Game.git) | [demo](https://dog-jump-game.vercel.app/) |
+| Flowers| [Flower-Animation](https://github.com/Tahrim19/Flower-Animation.git) | [Demo](https://flower-eight-indol.vercel.app/) |
